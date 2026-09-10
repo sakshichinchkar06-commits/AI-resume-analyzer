@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Resume Analyzer
 
 A Python + Streamlit project that analyzes a resume against ATS-style criteria and an optional job description.
@@ -165,6 +164,6 @@ Scanned/image-only PDFs may have no machine-readable text. Add OCR later if you 
 - Database/history
 - Admin dashboard
 - Unit tests and CI/CD
-=======
+
 # AI-resume-analyzer
 >>>>>>> 6a427ff04b38dcabd0a44d27e1e227d46d6d5380
