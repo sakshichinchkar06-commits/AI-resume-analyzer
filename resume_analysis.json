@@ -1,0 +1,64 @@
+{
+  "filename": "demo_resume_for_testing.pdf",
+  "errors": [],
+  "text": "ROHAN SHARMA\nAI & Machine Learning Engineer | Full Stack Developer\nEmail: rohan.sharma.dev@example.com\nPhone: +91 98765 43210\nLocation: Pune, Maharashtra, India\nLinkedIn: linkedin.com/in/rohan-sharma-ai\nGitHub: github.com/rohan-sharma-dev \nPROFESSIONAL SUMMARY\nResults-driven Artificial Intelligence and Data Science Engineer with strong hands-on experience in machine learning\npipelines, deep learning architectures (CNN, LSTM, Transformers), and full-stack web deployment. Proven expertise in\nbuilding end-to-end predictive models, RESTful APIs using FastAPI and Flask, and interactive data dashboards with\nStreamlit. Experienced with Natural Language Processing (NLP), ATS resume parsing algorithms, and cloud deployment. \nTECHNICAL SKILLS\nProgramming Languages: Python, JavaScript (ES6+), SQL, C++, HTML5/CSS3\nAI / ML & Data Science:\nTensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV, Pandas, NumPy, NLTK, Spacy, HuggingFace\nTransformers\nWeb Frameworks & Tools: Streamlit, Flask, FastAPI, REST APIs, Git, GitHub, Docker, Postman, VS Code\nDatabases & Cloud:\nPostgreSQL, MySQL, SQLite, MongoDB, AWS (EC2, S3), Streamlit Cloud, Hugging Face Spaces\nConcepts & Methods:\nObject Detection, Image Captioning, TF-IDF Vectorization, Cosine Similarity, ATS Optimization, CI/\nCD\nPROFESSIONAL EXPERIENCE\nMachine Learning Intern\nJune 2025 \u2013 Present\nNeuralCraft Analytics Labs \u2022 Pune, India\nDesigned and deployed an NLP-based Resume Parsing engine extracting candidate skills, education, and domain\nexperience with 92% extraction accuracy across PDF and DOCX formats.\nDeveloped a keyword-matching and cosine similarity scoring algorithm against target job descriptions to calculate\ncandidate match percentage for recruiter dashboards.\nAutomated preprocessing pipeline for over 5,000+ unstructured resumes using Spacy NER and regular expression\ntokenization.\nContainerized internal prediction microservices using Docker, decreasing deployment latency by 35%.\nData Science & Python Intern\nDecember 2024 \u2013 May 2025\nAgriTech Solutions \u2022 Pune, India\nBuilt predictive models for soil nutrient recommendation and crop yield estimation utilizing Random Forest and XGBoost\nclassifiers, reaching an F1-score of 0.89.\nIntegrated weather API feeds and soil parameters into an interactive Streamlit web application used by 200+ local\nagricultural advisors.\nOptimized SQL database queries and pandas transformation scripts, reducing data retrieval time by 40%.\nKEY PROJECTS\nAI Resume Analyzer & ATS Matcher\n2026\nPython, Streamlit, Scikit-Learn, PyPDF2, NLTK, Regular Expressions\nConstructed an automated ATS score evaluator evaluating applicant resumes against targeted job descriptions.\nImplemented section extraction, keyword density analysis, missing skills identification, and formatting compliance\nchecks.\nProvided dynamic improvement tips and interactive visualization charts for candidate strengths and weaknesses.\nAutomated Image Caption Generator\n2025 \u2013 2026\nPyTorch, BLIP, CNN-LSTM Architecture, Hugging Face, Flask\nDeveloped a multimodal deep learning system combining CNN visual feature extractors and recurrent neural networks\nto generate natural language captions for interior design photos.\nFine-tuned vision-language models achieving competitive BLEU-4 and CIDEr scores on custom image datasets.\nShipped a responsive web interface allowing drag-and-drop image uploads with sub-second caption generation.\n\u2022 \n\u2022 \n\u2022 \n\u2022 \n\u2022 \n\u2022 \n\u2022 \n\u2022 \n\u2022 \n\u2022 \n\u2022 \n\u2022 \n\u2022 \nPage 1 of 2\n\nEDUCATION\nBachelor of Technology (B.Tech) in Artificial Intelligence & Data Science\n2023 \u2013 2027\nSavitribai Phule Pune University (PES's College of Engineering) \u2022 CGPA: 8.85 / 10.0\nCERTIFICATIONS & HONORS\nDeep Learning Specialization \u2013 DeepLearning.AI / Coursera (2025)\nPython for Data Science and Machine Learning \u2013 Udemy (2024)\n1st Runner Up \u2013 State Level Hackathon for Smart Agriculture Innovation (2025)\n\u2022 \n\u2022 \n\u2022 \nPage 2 of 2\n",
+  "sections": {
+    "Summary / Objective": true,
+    "Experience": true,
+    "Education": true,
+    "Skills": true,
+    "Projects": true,
+    "Certifications": true
+  },
+  "skills_found": [
+    "api",
+    "artificial intelligence",
+    "aws",
+    "c",
+    "c++",
+    "deep learning",
+    "docker",
+    "fastapi",
+    "flask",
+    "git",
+    "github",
+    "javascript",
+    "machine learning",
+    "microservices",
+    "mongodb",
+    "mysql",
+    "nlp",
+    "numpy",
+    "pandas",
+    "postgresql",
+    "python",
+    "pytorch",
+    "scikit-learn",
+    "sql",
+    "sqlite",
+    "tensorflow"
+  ],
+  "missing_skills": [
+    "rest api"
+  ],
+  "matched_skills": [
+    "api",
+    "aws",
+    "docker",
+    "fastapi",
+    "git",
+    "machine learning",
+    "python",
+    "sql"
+  ],
+  "ats_score": 100,
+  "keyword_score": 89,
+  "job_match_score": 57,
+  "overall_score": 81,
+  "issues": [],
+  "strengths": [
+    "Uses bullet-style content, which is easier to scan.",
+    "Contains measurable numbers/metrics.",
+    "Uses several strong action verbs."
+  ]
+}
